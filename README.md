@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building scalable Spring Boot applications and a Micro-SaaS for automated weekly newsletter generation.<br><br>👯 I’m looking to collaborate on<br>Java/Spring Boot backend projects, Micro-SaaS ideas, and AI/ML-driven applications.<br><br>🤝 I’m looking for help with<br>System design for large-scale backend systems <br><br>🌱 I’m currently learning<br>Advanced Spring Boot, system design, and applied AI/ML for real-world products.<br><br>💬 Ask me about<br>Java, Spring Boot, REST APIs, backend architecture, and transitioning from mid-level to senior engineer.<br><br>⚡ Fun fact<br>I enjoy turning side projects into real products and aim for a MAANG-level role 🚀
+🔭 I’m currently working on<br>Building scalable Spring Boot applications and a Micro-SaaS for automated weekly newsletter generation.<br><br>👯 I’m looking to collaborate on<br>Java/Spring Boot backend projects, Micro-SaaS ideas, and AI/ML-driven applications.<br><br>🤝 I’m looking for help with<br>System design for large-scale backend systems <br><br>🌱 I’m currently learning<br>Advanced Spring Boot, system design, and applied AI/ML for real-world products.<br><br>💬 Ask me about<br>Java, Spring Boot, REST APIs, backend architecture.<br><br>⚡ Fun fact<br>I enjoy turning side projects into real products 🚀
 
 
 ## 🌐 Socials:
